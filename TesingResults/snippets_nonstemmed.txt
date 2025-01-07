@@ -1,0 +1,68 @@
+Query: running
+Document: paris5.html
+  Position 4117: [Index 4115: btn] [Index 4116: blue] [Index 4117: aria] [Index 4118: label] [Index 4119: Next]
+Document: joe7.html
+  Position 2728: [Index 2726: 2] [Index 2727: 0] [Index 2728: 3v] [Index 2729: 1] [Index 2730: 4c0]
+Document: joe10.html
+  Position 4337: [Index 4335: vector] [Index 4336: toc] [Index 4337: link] [Index 4338: href] [Index 4339: Senate_activities]
+  Position 4372: [Index 4370: class] [Index 4371: vector] [Index 4372: toc] [Index 4373: list] [Index 4374: ]
+  Position 5457: [Index 5455: 2017] [Index 5456: 2019] [Index 5457: span] [Index 5458: ] [Index 5459: div]
+  Position 9291: [Index 9289: 94] [Index 9290: D0] [Index 9291: B6] [Index 9292: D0] [Index 9293: BE_]
+  Position 9659: [Index 9657: BE_] [Index 9658: D0] [Index 9659: 91] [Index 9660: D0] [Index 9661: B0]
+  Position 9666: [Index 9664: D0] [Index 9665: B4] [Index 9666: D1] [Index 9667: 8A] [Index 9668: D0]
+  Position 9792: [Index 9790: interlanguage] [Index 9791: link] [Index 9792: interwiki] [Index 9793: br] [Index 9794: mw]
+  Position 11874: [Index 11872: data] [Index 11873: language] [Index 11874: autonym] [Index 11875: Hausa] [Index 11876: data]
+  Position 12007: [Index 12005: href] [Index 12006: https] [Index 12007: hi] [Index 12008: wikipedia] [Index 12009: org]
+  Position 12885: [Index 12883: E1] [Index 12884: 83] [Index 12885: 93] [Index 12886: E1] [Index 12887: 83]
+  Position 19921: [Index 19919: Joe] [Index 19920: Biden] [Index 19921: data] [Index 19922: language] [Index 19923: autonym]
+  Position 27153: [Index 27151: 2008] [Index 27152: United] [Index 27153: States] [Index 27154: presidential] [Index 27155: debates]
+  Position 27419: [Index 27417: style] [Index 27418: Tenure] [Index 27419: div] [Index 27420: div] [Index 27421: class]
+  Position 30245: [Index 30243: not] [Index 30244: searchable] [Index 30245: Main] [Index 30246: article] [Index 30247: a]
+  Position 31836: [Index 31834: sup] [Index 31835: after] [Index 31836: overcoming] [Index 31837: her] [Index 31838: parents]
+  Position 41562: [Index 41560: 2006] [Index 41561: Biden] [Index 41562: s] [Index 41563: stance] [Index 41564: had]
+  Position 43097: [Index 43095: cite] [Index 43096: bracket] [Index 43097: 91] [Index 43098: span] [Index 43099: 145]
+  Position 44733: [Index 44731: mw] [Index 44732: redirect] [Index 44733: title] [Index 44734: Blue] [Index 44735: collar]
+  Position 49640: [Index 49638: Reauthorization] [Index 49639: and] [Index 49640: Job] [Index 49641: Creation] [Index 49642: Act]
+  Position 49659: [Index 49657: ] [Index 49658: p] [Index 49659: ] [Index 49660: figure] [Index 49661: class]
+Document: joe4.html
+  Position 4956: [Index 4954: sublist] [Index 4955: class] [Index 4956: vector] [Index 4957: toc] [Index 4958: list]
+  Position 11910: [Index 11908: interwiki] [Index 11909: no] [Index 11910: mw] [Index 11911: list] [Index 11912: item]
+  Position 11966: [Index 11964: nn] [Index 11965: mw] [Index 11966: list] [Index 11967: item] [Index 11968: a]
+  Position 14451: [Index 14449: Winaray] [Index 14450: data] [Index 14451: language] [Index 14452: local] [Index 14453: name]
+  Position 18722: [Index 18720: li] [Index 18721: after] [Index 18722: content] [Index 18723: font] [Index 18724: weight]
+  Position 20319: [Index 20317: districts] [Index 20318: a] [Index 20319: a] [Index 20320: href] [Index 20321: wiki]
+Document: water1.html
+  Position 14872: [Index 14870: 0] [Index 14871: com] [Index 14872: salesforce] [Index 14873: records] [Index 14874: isRecordLayoutLcsCompilationEnabled]
+Document: continent1.html
+  Position 332: [Index 330: chunks] [Index 331: framework] [Index 332: ecc4130bc7a58a64] [Index 333: js] [Index 334: defer]
+  Position 6563: [Index 6561: br] [Index 6562: br] [Index 6563: The] [Index 6564: positions] [Index 6565: of]
+  Position 38417: [Index 38415: _key] [Index 38416: 21d0e671bd34] [Index 38417: marks] [Index 38418: text] [Index 38419: _key]
+  Position 48880: [Index 48878: rl] [Index 48879: vocabularyItem] [Index 48880: _createdAt] [Index 48881: 2022] [Index 48882: 05]
+Document: joe9.html
+  Position 840: [Index 838: property] [Index 839: og] [Index 840: image] [Index 841: content] [Index 842: https]
+  Position 878: [Index 876: Mendel] [Index 877: openGraph] [Index 878: type] [Index 879: WEBSITE] [Index 880: title]
+  Position 946: [Index 944: href] [Index 945: https] [Index 946: fonts] [Index 947: googleapis] [Index 948: com]
+  Position 2800: [Index 2798: submit] [Index 2799: btn] [Index 2800: btn] [Index 2801: link] [Index 2802: text]
+  Position 2838: [Index 2836: search] [Index 2837: em] [Index 2838: ] [Index 2839: button] [Index 2840: ]
+  Position 2904: [Index 2902: class] [Index 2903: subscribe] [Index 2904: link] [Index 2905: btn] [Index 2906: btn]
+Document: spring1.html
+  Position 5887: [Index 5885: borders] [Index 5886: no] [Index 5887: dividers] [Index 5888: list] [Index 5889: group]
+Document: rgb5.html
+  Position 29225: [Index 29223: 2] [Index 29224: gradient] [Index 29225: role] [Index 29226: region] [Index 29227: aria]
+Document: continent2.html
+  Position 5169: [Index 5167: of] [Index 5168: contents] [Index 5169: span] [Index 5170: ] [Index 5171: label]
+Document: spring6.html
+  Position 86676: [Index 86674: Physics] [Index 86675: amp] [Index 86676: Math] [Index 86677: target] [Index 86678: _self]
+Document: rgb1.html
+  Position 5856: [Index 5854: hreflang] [Index 5855: el] [Index 5856: data] [Index 5857: title] [Index 5858: RGB]
+Query: flower
+Document: mona2.html
+  Position 16004: [Index 16002: cultural] [Index 16003: depictions] [Index 16004: such] [Index 16005: as] [Index 16006: the]
+Document: spring4.html
+  Position 6842: [Index 6840: not] [Index 6841: is] [Index 6842: always] [Index 6843: mobile] [Index 6844: nav]
+Document: spring1.html
+  Position 4674: [Index 4672: glossified] [Index 4673: term] [Index 4674: data] [Index 4675: test] [Index 4676: id]
+  Position 5908: [Index 5906: data] [Index 5907: rr] [Index 5908: ui] [Index 5909: event] [Index 5910: key]
+  Position 5934: [Index 5932: div] [Index 5933: div] [Index 5934: div] [Index 5935: div] [Index 5936: div]
+Document: url.html
+  Position 70: [Index 68: about] [Index 69: blank] [Index 70: c] [Index 71: location] [Index 72: replace]

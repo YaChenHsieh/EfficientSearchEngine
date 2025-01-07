@@ -1,0 +1,6 @@
+Query: running
+Results: paris5.html, joe7.html, joe10.html, joe4.html, water1.html, continent1.html, joe9.html, spring1.html, rgb5.html, continent2.html, spring6.html, rgb1.html
+
+Query: flower
+Results: mona2.html, spring4.html, spring1.html, url.html
+

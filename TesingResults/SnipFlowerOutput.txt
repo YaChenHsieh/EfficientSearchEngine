@@ -1,0 +1,24 @@
+Document: water8.html
+  Index 39607: 2C 22url 22 3A 22https
+  Index 40371: 7B 22itag 22 3A250 2C
+Document: mona2.html
+  Index 16004: cultural depictions such as the
+Document: spring3.html
+  Index 4213:  span Solar terms span
+  Index 7220: target span span a li
+  Index 7848: li li class interlanguage link
+  Index 8093: item a href https he
+Document: war10.html
+  Index 145: abmc gov sites default files
+  Index 615: href content class visually hidden
+Document: spring4.html
+  Index 6842: not is always mobile nav
+  Index 8654: stylesheet media print href core
+Document: spring1.html
+  Index 352: defer script script src _next
+  Index 3477: 0 1 3 1 439A2
+  Index 4674: glossified term data test id
+  Index 5908: data rr ui event key
+  Index 5934: div div div div div
+Document: url.html
+  Index 70: about blank c location replace

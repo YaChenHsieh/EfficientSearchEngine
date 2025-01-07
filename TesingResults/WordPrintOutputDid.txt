@@ -1,0 +1,103 @@
+The word 'did' appears in 34 document(s):
+  Document: mona10.html
+    Frequency: 13
+    Positions: [96, 110, 159, 184, 226, 241, 253, 283, 297, 367, 386, 403, 450]
+  Document: mona8.html
+    Frequency: 8
+    Positions: [476, 1179, 1947, 1951, 1955, 4448, 4452, 4456]
+  Document: biggestocean3.html
+    Frequency: 2
+    Positions: [612, 12186]
+  Document: paris5.html
+    Frequency: 2
+    Positions: [2770, 4154]
+  Document: biggestocean6.html
+    Frequency: 1
+    Positions: [517]
+  Document: joe10.html
+    Frequency: 21
+    Positions: [5386, 5394, 7583, 8199, 8555, 10374, 13420, 14765, 15699, 16932, 17697, 19569, 20836, 24895, 30052, 30352, 36309, 36595, 38305, 44914, 49147]
+  Document: war3.html
+    Frequency: 7
+    Positions: [2818, 2957, 5739, 5754, 5772, 5834, 6046]
+  Document: mona2.html
+    Frequency: 4
+    Positions: [2767, 4880, 10561, 11395]
+  Document: continent6.html
+    Frequency: 1
+    Positions: [3073]
+  Document: spring4.html
+    Frequency: 1
+    Positions: [7758]
+  Document: war6.html
+    Frequency: 5
+    Positions: [4295, 4380, 4433, 5012, 5904]
+  Document: war1.html
+    Frequency: 3
+    Positions: [979, 1275, 2228]
+  Document: rgb5.html
+    Frequency: 3
+    Positions: [18733, 23052, 25304]
+  Document: continent2.html
+    Frequency: 2
+    Positions: [6677, 8661]
+  Document: war4.html
+    Frequency: 1
+    Positions: [1233]
+  Document: war7.html
+    Frequency: 5
+    Positions: [2227, 2554, 2803, 3454, 4074]
+  Document: spring6.html
+    Frequency: 3
+    Positions: [1274, 1281, 81140]
+  Document: mona7.html
+    Frequency: 1
+    Positions: [2584]
+  Document: spring3.html
+    Frequency: 1
+    Positions: [8823]
+  Document: mona1.html
+    Frequency: 3
+    Positions: [1634, 2482, 2905]
+  Document: leap5.html
+    Frequency: 4
+    Positions: [561, 2797, 22258, 38901]
+  Document: paris2.html
+    Frequency: 3
+    Positions: [12068, 15214, 15406]
+  Document: continent8.html
+    Frequency: 7
+    Positions: [1184, 1212, 1422, 2009, 2185, 2369, 2689]
+  Document: leap11.html
+    Frequency: 5
+    Positions: [1230, 1239, 4020, 4029, 23349]
+  Document: joe4.html
+    Frequency: 10
+    Positions: [4375, 5678, 6748, 8025, 8904, 11997, 16547, 16561, 16614, 17952]
+  Document: continent1.html
+    Frequency: 5
+    Positions: [699, 7534, 20889, 24991, 49577]
+  Document: leap9.html
+    Frequency: 5
+    Positions: [2023, 3220, 3335, 3341, 3717]
+  Document: leap1.html
+    Frequency: 1
+    Positions: [3716]
+  Document: paris10.html
+    Frequency: 2
+    Positions: [236, 846]
+  Document: mona6.html
+    Frequency: 14
+    Positions: [957, 1080, 1397, 1545, 1626, 2912, 3480, 3495, 3508, 3633, 3960, 4742, 4930, 5364]
+  Document: biggestocean9.html
+    Frequency: 1
+    Positions: [6765]
+  Document: war2.html
+    Frequency: 30
+    Positions: [2, 104, 162, 168, 2094, 2285, 2377, 2552, 2601, 2792, 3317, 3426, 3961, 4070, 5068, 16067, 16136, 16308, 16400, 16575, 16624, 16816, 17135, 28134, 28203, 28375, 28467, 28642, 28691, 28883]
+  Document: war5.html
+    Frequency: 8
+    Positions: [5960, 6417, 10890, 12619, 18355, 21876, 23326, 30077]
+  Document: rgb9.html
+    Frequency: 1
+    Positions: [48446]
